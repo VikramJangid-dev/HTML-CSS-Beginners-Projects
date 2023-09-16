@@ -1,1 +1,4 @@
 # HTML-CSS-beginner-projects
+
+Hands-on HTML and CSS projects tailored for beginners. Build a strong foundation while creating straightforward web pages.
+Perfect for first-time learners and those seeking to reinforce their skills. Happy coding!
