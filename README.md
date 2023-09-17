@@ -5,3 +5,4 @@ Perfect for first-time learners and those seeking to reinforce their skills. Hap
 
 -----Live Project-----
 1. Tribute Page : https://apj-abdul-kalm-tribute.netlify.app/
+2. Parallax Effect website : https://space-parallax-effect-web.netlify.app/
