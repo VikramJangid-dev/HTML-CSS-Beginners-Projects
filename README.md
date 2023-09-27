@@ -6,7 +6,7 @@ Perfect for first-time learners and those seeking to reinforce their skills. Hap
 -----Live Project-----
 1. Tribute Page : https://apj-abdul-kalm-tribute.netlify.app/
 2. Parallax Effect website : https://space-parallax-effect-web.netlify.app/
-3. Image gallery webpage : https://image-gallery-webpage.netlify.app/
+3. Image gallery : https://image-gallery-webpage.netlify.app/
 4. Camera Website landing Page : https://camera-website-landingpage.netlify.app/
 5. Modern Landing Page (Practice - Flex and Position )*not Responsive :  https://morden-landing-page.netlify.app/
 6. Design Landing Page : https://landing-page-design-vj.netlify.app/
